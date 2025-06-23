@@ -2,6 +2,9 @@
 
 This project is a decentralized NFT marketplace built on the PolkaVM ecosystem. It allows users to connect their wallets, mint new NFTs, buy listed NFTs, and resell NFTs they own.
 
+
+> **_Migrate to monorepo for tutorial: Build a NFT marketplace on Asset Hub (Fullstack) :_**  https://github.com/openguild-labs/nft-marketplace-polkaVM
+
 ## Getting Started
 
 Follow these instructions to get a local copy up and running for development and testing purposes.
